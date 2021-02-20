@@ -41,3 +41,7 @@
 - [5 pts] Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered
   
 ![Successful build status as seen on readme.md after fix](figures/Q10.png)
+
+- History of all builds
+  
+![History of all the builds and commits](figures/history.png)
